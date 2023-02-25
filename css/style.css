@@ -8,7 +8,7 @@
   text-decoration: none;
   list-style: none;
   border: none;
-  font: 1em 'Roboto Mono'monospace, sans-serif;
+  font-family: 1em 'Roboto Mono'monospace, sans-serif;
 }
 
 html, body {
